@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Washing machine",
+        "category": "Appliances",
+        "id": 1
+    },
+    {
+        "name": "dryer",
+        "category": "Appliances",
+        "id": 2
+    },
+    {
+        "name": "mixer",
+        "category": "Appliances",
+        "id": 3
+    },
+    {
+        "name": "subaro",
+        "category": "Cars",
+        "id": 1
+    },
+    {
+        "name": "pink dress",
+        "category": "Clothes",
+        "id": 1
+    },
+    {
+        "name": "blue shirt",
+        "category": "Clothes",
+        "id": 2
+    },
+    {
+        "name": "brown hat",
+        "category": "Clothes",
+        "id": 3
+    },
+    {
+        "name": "isterak",
+        "category": "Books",
+        "id": 1
+    },
+    {
+        "name": "yozavad",
+        "category": "Books",
+        "id": 2
+    },
+    {
+        "name": "karov latzalachat",
+        "category": "Books",
+        "id": 3
+    },
+    {
+        "name": "toaster",
+        "category": "Appliances",
+        "id": "4"
+    }
+]
